@@ -14,7 +14,8 @@
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Lasso regression is giving the good result compare to Ridge. - GrLivArea is the top predictorvalue from the model.<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Lasso regression is giving the good result compare to Ridge. 
+- GrLivArea is the top predictorvalue from the model.<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
